@@ -1,85 +1,69 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Matthew Behymer's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Matthew Behymer
+Computer Science major 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="https://www.linkedin.com/in/matthew-behymer-231270232/">LinkedIn</a>
+| <a href="https://github.com/mbehymer/mbehymer_resume_test">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.9 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### Implementation Technician
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2020 - Present`
+__Samaritan Technologies__, Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Automated volunteer management programs updating over 10,000 volunteer accounts
+- Exported, imported, and edited data for user defined fields in JSON
+- Gathered and organize information on hospital contact info for all 50 states
+- Developed user defined fields for the volunteer coordinator management system
+- Created user accounts based on user needs and hospital location
+- Trained other employees on gathering and organized hospital contact info
+- Troubleshot, corrected, and customized CSS and HTML for the volunteer management system
+- Constructed over 800 filters for volunteer management software
 
 
-## Service and Work History
+## Projects and Extracurricular
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Lead Project Manager
 
+`December 2021`
+__Battleship Game Using Peer-to-Peer TCP Networking__, Applied Programming, BYU-I
+- Oversaw project analysis and design
+- Implemented program to network two computers together using TCP and Python sockets
+- Experience setting up, operating, and running virtual machines
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Volunteer Skate Instructor
 
+`April 2021 – December 2021`
+__BYU-Idaho__ Rexburg, ID
+- Volunteered 2 - 6+ hours weekly
+- Communicated and demonstrated technical information, adapting for varying skill level
+
+## Skills, Software, and Equipment
+- Created games and graphical models using JavaScript, HTML, CSS, and Python (See http://matziar.com.)
+- Experience accessing and manipulating APIs using Python and JavaScript
+- Experience connecting to a cloud database using NodeJS
+- Image processing and manipulation using Python
+- Experience creating, updating, inserting, and deleting databases and information using MySQL
+- Developed Android apps using Kotlin, Java and Android Studio
+- Experience connecting to, accessing, and displaying information from MongoDB using NodeJS to display a dynamic 
+webpage
+- Other languages: C++, Clojure
 
 
 <!-- ### Footer
