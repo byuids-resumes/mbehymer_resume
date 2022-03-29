@@ -3,7 +3,6 @@ layout: cv
 title: Matthew Behymer's Resume
 ---
 # Matthew Behymer
-Computer Science major 
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/matthew-behymer-231270232/">LinkedIn</a>
@@ -17,6 +16,7 @@ Computer Science major
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Computer Science Major
 - 3.9 Major GPA
 
 
