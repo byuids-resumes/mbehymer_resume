@@ -48,6 +48,19 @@ __Samaritan Technologies__, Salt Lake City, UT
 - Troubleshot, corrected, and customized CSS and HTML for the volunteer management system
 - Constructed over 800 filters for volunteer management software
 
+### Skills and Software
+
+__Skills and Used Software__:
+- Created games and graphical models using JavaScript, HTML, CSS, and Python (See http://matziar.com.)
+- Experience accessing and manipulating APIs using Python and JavaScript
+- Experience connecting to a cloud database using NodeJS
+- Image processing and manipulation using Python
+- Experience creating, updating, inserting, and deleting databases and information using MySQL
+- Developed Android apps using Kotlin, Java and Android Studio
+- Experience connecting to, accessing, and displaying information from MongoDB using NodeJS to display a dynamic 
+webpage
+- Other languages: C++, Clojure
+
 
 ## Projects and Extracurricular
 
@@ -65,17 +78,6 @@ __Battleship Game Using Peer-to-Peer TCP Networking__, Applied Programming, BYU-
 __BYU-Idaho__ Rexburg, ID
 - Volunteered 2 - 6+ hours weekly
 - Communicated and demonstrated technical information, adapting for varying skill level
-
-## Skills, Software, and Equipment
-- Created games and graphical models using JavaScript, HTML, CSS, and Python (See http://matziar.com.)
-- Experience accessing and manipulating APIs using Python and JavaScript
-- Experience connecting to a cloud database using NodeJS
-- Image processing and manipulation using Python
-- Experience creating, updating, inserting, and deleting databases and information using MySQL
-- Developed Android apps using Kotlin, Java and Android Studio
-- Experience connecting to, accessing, and displaying information from MongoDB using NodeJS to display a dynamic 
-webpage
-- Other languages: C++, Clojure
 
 
 <!-- ### Footer
