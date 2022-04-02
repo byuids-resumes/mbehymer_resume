@@ -16,8 +16,17 @@ title: Matthew Behymer's Resume
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Computer Science Major
+- __Bachelor of Science__ Computer Science Major
 - 3.9 Major GPA
+__Related Coursework__: 
+`Dec 2021`
+- Data Structures, 
+- JavaScript, 
+- Databases, 
+- Algorithmic Thinking, 
+- Web Design and Development,
+- Applied Programming
+- Parallelism and Concurrency
 
 
 ## Related Experience
