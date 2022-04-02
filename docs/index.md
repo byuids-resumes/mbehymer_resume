@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __Related Coursework__: 
 
-`Dec 2021`
+`Dec 2020 - Present`
 
 - Data Structures
 - JavaScript 
