@@ -50,7 +50,7 @@ __Samaritan Technologies__, Salt Lake City, UT
 
 ### Skills and Software
 
-__Skills and Used Software__:
+__Personal Experience__:
 - Created games and graphical models using JavaScript, HTML, CSS, and Python (See http://matziar.com.)
 - Experience accessing and manipulating APIs using Python and JavaScript
 - Experience connecting to a cloud database using NodeJS
