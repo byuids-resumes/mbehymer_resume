@@ -23,11 +23,11 @@ __Related Coursework__:
 
 `Dec 2021`
 
-- Data Structures, 
-- JavaScript, 
-- Databases, 
-- Algorithmic Thinking, 
-- Web Design and Development,
+- Data Structures
+- JavaScript 
+- Databases
+- Algorithmic Thinking
+- Web Design and Development
 - Applied Programming
 - Parallelism and Concurrency
 
